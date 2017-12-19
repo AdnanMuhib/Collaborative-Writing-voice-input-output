@@ -23,7 +23,7 @@ body {
 #userlist {
     position: absolute;
     left: 0;
-    top: 100px;
+    top: 0px;
     bottom: 0;
     height: 100%;
     width: 25%;
@@ -43,5 +43,5 @@ body {
 #MyCommand{
 	font-size: large;
 	color: red;
-	padding: 20px;
+	padding: 0px;
 }
